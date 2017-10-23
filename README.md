@@ -7,5 +7,5 @@ repeating youtube video for geektool to realize wallpaper engine on mac
 3. set vid in video.js
 4. set local folder's path at geektool's property url
 
-## changes
+## Changes
 muting youtube video for silent wallpaper
