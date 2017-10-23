@@ -6,6 +6,6 @@ repeating youtube video for geektool to realize wallpaper engine on mac
 2. clone this repos.
 3. set vid in video.js
 4. set local folder's path at geektool's property url
-```
-var vid = 'SlRfwbD2riE'; //please set youtube video's id that you want to play
-```
+
+## changes
+muting youtube video for silent wallpaper
