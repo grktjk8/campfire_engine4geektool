@@ -17,6 +17,7 @@ w.onYouTubeIframeAPIReady = function () {
             loop: 1 //ループ設定
         },
         events: {
+            // Add function
             'onReady': onPlayerReady,
             'onStateChange': function (e) {
                 // 再生終了後
