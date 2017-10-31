@@ -30,10 +30,9 @@ w.onYouTubeIframeAPIReady = function () {
     player.setLoop(true);
 };
 
-/* Add function
+// Add function for silent
 
 function onPlayerReady(event) {
     event.target.mute();
     event.target.setVolume(0);
 }
-*/
