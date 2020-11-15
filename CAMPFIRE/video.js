@@ -32,6 +32,6 @@ w.onYouTubeIframeAPIReady = function () {
 };
 
 function onPlayerReady(event) {
-    event.target.mute();
+    event.target();
     event.target.setVolume(0);
 }
