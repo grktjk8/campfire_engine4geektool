@@ -30,8 +30,3 @@ w.onYouTubeIframeAPIReady = function () {
     });
     player.setLoop(true);
 };
-
-function onPlayerReady(event) {
-    event.target.mute();
-    event.target.setVolume(0);
-}
